@@ -1,0 +1,44 @@
+[{
+    "node_id": "deadbeefff00",
+    "hostname": "ffki-vpn0",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "de:ad:be:ef:ff:00"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "deadbeefff01",
+    "hostname": "ffki-vpn1",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "de:ad:be:ef:ff:01"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "deadbeefff02",
+    "hostname": "ffki-vpn2",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "de:ad:be:ef:ff:02"
+          }
+        }
+      }
+    }
+  }
+]
+
